@@ -1,13 +1,27 @@
 {
   "name": "@justfn/less-scope-loader",
   "version": "1.0.0",
-  "author": {
-    "name": "fsl"
-  },
+  "author": "fsl",
   "engines": {
     "node": ">= 10.13.0"
   },
   "license": "MIT",
   "main": "index.js",
-  "homepage": "https://github.com/justfn"
+  "homepage": "https://github.com/justfn",
+  "description": "less scope loader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justfn/less-scope-loader.git"
+  },
+  "keywords": [
+    "less",
+    "scope",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/justfn/less-scope-loader/issues"
+  }
 }
