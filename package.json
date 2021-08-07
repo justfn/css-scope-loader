@@ -1,0 +1,13 @@
+{
+  "name": "@justfn/less-scope-loader",
+  "version": "1.0.0",
+  "author": {
+    "name": "fsl"
+  },
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/justfn"
+}
